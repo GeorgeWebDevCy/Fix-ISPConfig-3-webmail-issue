@@ -1,6 +1,6 @@
 # Fix ISPConfig 3 webmail issue
 -------------------------------
-When installing ISPConfig 3 using the guide here:
+When installing ISPConfig 3 using the guide here:https://www.howtoforge.com/tutorial/ispconfig-automated-install-script/
 
 After initial installation and configuration 
 
